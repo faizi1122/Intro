@@ -49,9 +49,10 @@ https://docs.google.com/document/d/1SPwzEgnzkQUGLBDLz_htWtaeaNNuGI5u/edit?usp=sh
 
 
 
-**Tools
+**Tools**
+
 ==========================
-Bug Tracking and Reporting Tools**
+**Bug Tracking and Reporting Tools**
 - Jira
 - Bugzilla
 - ClickUp
@@ -98,9 +99,13 @@ IE11
 **Devices I have:**
 
 Laptop/Computer:
+
 i7 7 Gen
+
 i5 7 Gen
+
 Macbook 2010 - OS 10.12.6
+
 Macbook 2012 - OS 10.15.3
 
 Mobile Devices:

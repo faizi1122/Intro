@@ -3,7 +3,7 @@ Hi viewer, I am Faizan Iqbal, I hold BS Software Engineering degree. I have 2+ y
 
 As a Software Quality Assurance Engineer, I will be responsible for the quality of your product.
 
-I will do:
+**I will do:**
 Test Planning : To avoid issues in advance.
 Problem solution : To assure that the problem should resolve even before it arise.
 Test scenario writing : Will all steps and conditions.
@@ -12,19 +12,46 @@ Debugging : To build a professional bug report.
 Screenshots to elaborate issues
 Screen recordings for bug evidence
 
-I have expertise in:
+**I have expertise in:**
 - Working as an Excellent Team Player and Effective English Communication and Writing Skills.
 - Leading and talking effectively in meetings, and always available on chats and calls.
 - Creating test plans, bug reporting, Traceability Metrics documents, and Performance/ Throughput reports.
 - Performed every type of testing. (See My resume for details).
 
-I have experience of working in:
+**I have experience of working in:**
 - Tested SalesForce Apps, Educational Apps, Billing Systems, Web and Mobile Applications, and medical companies.
 - Ability to do API and Web Services Testing Using Postman
 
-Tools
+Please take a look at my resume.
+https://bit.ly/3zScN05
+
+
+I am available 10 hours a day (Even more as per need). And, I am flexible enough to work in your time zone.
+
+**Following are some of my examples of work:**
+**Testcases:**
+https://docs.google.com/spreadsheets/d/1gqv-vSaIbhvz9VVIUL74MpUOkoy7doCPvN_tJeyvtko/edit?usp=sharing
+
+**Bug Report:**
+https://docs.google.com/document/d/1iEW0lhiC1skLjTitibIa2fyg7hjYsiiWl31vnIXwtSc/edit?usp=sharing
+
+**Cost Estimation Document:**
+https://docs.google.com/document/d/1ctTrwsgmJhLhh0cJqNo7HPIHB6g4vvyi/edit?usp=sharing&ouid=112879182356057653025&rtpof=true&sd=true
+
+**Test Plan:**
+https://docs.google.com/document/d/1fio4BZ6agCzjgpkorDSwYWSYayqNi-9E/edit?usp=sharing&ouid=112879182356057653025&rtpof=true&sd=true
+
+**Tools Comparison Slides:**
+https://docs.google.com/presentation/d/1IIDjx-BbpKtfbJtQ_8gx7toNPncc0tSnA17aeFlqBls/edit?usp=sharing
+
+**User Manual for Burp Suite for the internal team:**
+https://docs.google.com/document/d/1SPwzEgnzkQUGLBDLz_htWtaeaNNuGI5u/edit?usp=sharing&ouid=112879182356057653025&rtpof=true&sd=true
+
+
+
+**Tools
 ==========================
-Bug Tracking and Reporting Tools
+Bug Tracking and Reporting Tools**
 - Jira
 - Bugzilla
 - ClickUp
@@ -36,7 +63,7 @@ Bug Tracking and Reporting Tools
 - Rocketlane
 - Clubhouse
 
-Test Management Tools
+**Test Management Tools**
 - TestRail
 - Test Link
 - Google Docs
@@ -44,7 +71,8 @@ Test Management Tools
 - Xray-Jira
 
 
-Screen Recording Tools
+**Screen Recording Tools**
+
 - Loom (Online)
 - TechSmith screen recorder.(Online)
 - ZD Screen recorder (Offline)
@@ -52,12 +80,12 @@ Screen Recording Tools
 - Zoom (Offline - During Video calls)
 - Kazam
 
-Screenshot Capture Tools
+**Screenshot Capture Tools**
 - TechSmith Capture
 - LighShot
 - Flameshot
 
-Browsers I use for Web app testing:
+**Browsers I use for Web app testing:**
 
 Google Chrome
 Mozilla
@@ -67,7 +95,7 @@ Opera
 Edge
 IE11
 
-Devices I have:
+**Devices I have:**
 
 Laptop/Computer:
 i7 7 Gen

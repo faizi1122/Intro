@@ -88,41 +88,41 @@ https://docs.google.com/document/d/1SPwzEgnzkQUGLBDLz_htWtaeaNNuGI5u/edit?usp=sh
 
 **Browsers I use for Web app testing:**
 
-Google Chrome
-Mozilla
-Safari
-Mozilla
-Opera
-Edge
-IE11
+- Google Chrome
+- Mozilla
+- Safari
+- Mozilla
+- Opera
+- Edge
+- IE11
 
 **Devices I have:**
 
 Laptop/Computer:
 
-i7 7 Gen
+- i7 7 Gen
 
-i5 7 Gen
+- i5 7 Gen
 
-Macbook 2010 - OS 10.12.6
+- Macbook 2010 - OS 10.12.6
 
-Macbook 2012 - OS 10.15.3
+- Macbook 2012 - OS 10.15.3
 
 Mobile Devices:
-iPhone 8
-iPhone 7 OS 12.1
-iPhone 6 OS 11.3
-iPad Air OS 12.0
-iPad2 OS 10.2
+- iPhone 8
+- iPhone 7 OS 12.1
+- iPhone 6 OS 11.3
+- iPad Air OS 12.0
+- iPad2 OS 10.2
 
 Android:
-Realme 6 pro
-Samsung Galaxy S20 Ultra OS 10.0
-Samsung Galaxy S8+ Os 9
-Oppo A5 OS 9.0
-Huawei P10 Plus OS 7.0
-Oppo F21 Pro OS 12.0
-Xiomi Note 9S OS 11.0
+- Realme 6 pro
+- Samsung Galaxy S20 Ultra OS 10.0
+- Samsung Galaxy S8+ Os 9
+- Oppo A5 OS 9.0
+- Huawei P10 Plus OS 7.0
+- Oppo F21 Pro OS 12.0
+- Xiomi Note 9S OS 11.0
 
 
 

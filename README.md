@@ -1,4 +1,4 @@
-Hi viewer, I am Faizan Iqbal, I hold BS Software Engineering degree. I have 2+ years of experience in Software QA and Testing.
+Hi viewer, I am Faizan Iqbal, I hold BS Software Engineering degree. I have 5+ years of experience in Software QA and Testing.
 - Able to work in any time zone with flexible timings. Can work for 16 hours a day.
 
 As a Software Quality Assurance Engineer, I will be responsible for the quality of your product.
@@ -23,10 +23,9 @@ Screen recordings for bug evidence
 - Ability to do API and Web Services Testing Using Postman
 
 Please take a look at my resume.
-https://bit.ly/3zScN05
+https://www.canva.com/design/DAEOgyiAjdU/rosa5HIIG_pi27r0FkXYFg/view
 
-
-I am available 10 hours a day (Even more as per need). And, I am flexible enough to work in your time zone.
+I am available 16 hours a day (Even more as per need). And, I am flexible enough to work in your time zone.
 
 **Following are some of my examples of work:**
 **Testcases:**
